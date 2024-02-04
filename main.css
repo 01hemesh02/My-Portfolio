@@ -26,7 +26,7 @@
 
 html {
     font-size: 10px;
-    font-family: 'Gotham Medium';
+    /* font-family: 'Gotham Medium'; */
     color: #c5c5c5;
 }
 
@@ -711,7 +711,7 @@ li {
     font-size: 1.5rem;
     color: black;
     font-weight: 600;
-    font-family: 'Gotham Medium';
+    /* font-family: 'Gotham Medium'; */
 
 }
 
@@ -1181,7 +1181,7 @@ li {
         text-transform: uppercase;
         font-weight: 300;
         opacity: .6;
-        font-family: 'Gotham Medium';
+        /* font-family: 'Gotham Medium'; */
     }
 
     .portfolio-description .cta {
